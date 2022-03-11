@@ -3,12 +3,16 @@
 !(https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 ## Installation
 >Öncelikle projeyi clonelayın. 
+```
 <code>git clone https://github.com/kgeckin/kodluyoruzilkrepo.git</code>.
+```
 ## Usage
 >Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 ### Linux için:
+```
 <code>cd kodluyoruzilkrepo</code>
 <code>code .</code>
+```
 ## Contributing
 >Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ## License
